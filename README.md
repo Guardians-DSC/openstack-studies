@@ -18,6 +18,8 @@ A [virtualização](https://www.redhat.com/pt-br/topics/virtualization) é a tec
 
 A [computação em nuvem](https://www.redhat.com/pt-br/topics/cloud), ou cloud computing, é um modelo de fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software e análises pela Internet (a nuvem). A computação em nuvem é flexível, escalável e permite que os usuários acessem e usem esses serviços de qualquer lugar do mundo.
 
+- [Guia da Computação em Nuvem](https://archive.org/details/guia-da-computacao-em-nuvem) - material produzido pelas [SysAdminas](https://medium.com/sysadminas)
+
 #### O que é a Infraestrutura como serviço (IaaS)?
 
 A [infraestrutura como serviço](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-iaas) é um modelo de serviço de computação em nuvem que fornece acesso sob demanda a recursos de computação, armazenamento e rede. Os usuários podem provisionar e gerenciar esses recursos de forma automatizada, escalável e programática.
